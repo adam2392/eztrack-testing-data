@@ -1,0 +1,11 @@
+# BIDS-iEEG/EEG Testing Dataset
+
+1. Sourcedata/
+
+Contains very small trimmed samples of real iEEG and scalp EEG datasets, which have been
+de-identified. These are then run through BIDS conversion and should match what we see in bids_root.
+
+2. bids_root/
+
+Is `<EZTRACK_HOME>/data/bids_layout/`
+
