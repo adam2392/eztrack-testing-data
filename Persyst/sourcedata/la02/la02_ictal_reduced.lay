@@ -1,0 +1,6 @@
+[FileInfo]
+File=la02_ictal_reduced.edf
+FileType=EDF90
+
+[Comments]
+-0.079999,10.169000,0,100,@Clip: Clip1
