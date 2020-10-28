@@ -1,0 +1,550 @@
+{
+  "electrode_montage": {
+	  "G'": {
+		"10": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"type": "SEEG",
+		"2": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"1": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"5": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"11": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"7": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"6": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"4": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"3": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"14": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"15": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"16": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"8": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"12": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"9": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"13": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		}
+	  },
+	  "EKG": {
+		"2": {
+		  "include": "false",
+		  "status_description": "NON-EEG",
+		  "status": "BAD"
+		},
+		"1": {
+		  "include": "false",
+		  "status_description": "NON-EEG",
+		  "status": "BAD"
+		},
+		"type": "EKG"
+	  },
+	  "F'": {
+		"10": {
+		  "include": "false",
+		  "status_description": "OUT",
+		  "status": "BAD"
+		},
+		"type": "SEEG",
+		"6": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"7": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"5": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"11": {
+		  "include": "false",
+		  "status_description": "OUT",
+		  "status": "BAD"
+		},
+		"4": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"3": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"13": {
+		  "include": "false",
+		  "status_description": "OUT",
+		  "status": "BAD"
+		},
+		"12": {
+		  "include": "false",
+		  "status_description": "OUT",
+		  "status": "BAD"
+		},
+		"14": {
+		  "include": "false",
+		  "status_description": "OUT",
+		  "status": "BAD"
+		},
+		"8": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"9": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"1": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"2": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		}
+	  },
+	  "CZ": {
+		"": {
+		  "include": "false",
+		  "status_description": "NON-EEG",
+		  "status": "BAD"
+		},
+		"type": "SEEG"
+	  },
+	  "FZ": {
+		"": {
+		  "include": "false",
+		  "status_description": "NON-EEG",
+		  "status": "BAD"
+		},
+		"type": "SEEG"
+	  },
+	  "X'": {
+		"8": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"9": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"6": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"5": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"7": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"16": {
+		  "include": "false",
+		  "status_description": "OUT",
+		  "status": "BAD"
+		},
+		"type": "SEEG",
+		"13": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"12": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"14": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"3": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"4": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"10": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"11": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"15": {
+		  "include": "false",
+		  "status_description": "OUT",
+		  "status": "BAD"
+		},
+		"1": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"2": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		}
+	  },
+	  "PZ": {
+		"": {
+		  "include": "false",
+		  "status_description": "NON-EEG",
+		  "status": "BAD"
+		},
+		"type": "SEEG"
+	  },
+	  "O'": {
+		"type": "SEEG",
+		"15": {
+		  "include": "false",
+		  "status_description": "OUT",
+		  "status": "BAD"
+		},
+		"14": {
+		  "include": "false",
+		  "status_description": "OUT",
+		  "status": "BAD"
+		},
+		"16": {
+		  "include": "false",
+		  "status_description": "OUT",
+		  "status": "BAD"
+		},
+		"12": {
+		  "include": "false",
+		  "status_description": "N/A",
+		  "status": "BAD"
+		},
+		"13": {
+		  "include": "false",
+		  "status_description": "N/A",
+		  "status": "BAD"
+		},
+		"5": {
+		  "include": "false",
+		  "status_description": "N/A",
+		  "status": "BAD"
+		},
+		"6": {
+		  "include": "false",
+		  "status_description": "N/A",
+		  "status": "BAD"
+		},
+		"11": {
+		  "include": "false",
+		  "status_description": "N/A",
+		  "status": "BAD"
+		},
+		"10": {
+		  "include": "false",
+		  "status_description": "N/A",
+		  "status": "BAD"
+		},
+		"3": {
+		  "include": "false",
+		  "status_description": "N/A",
+		  "status": "BAD"
+		},
+		"4": {
+		  "include": "false",
+		  "status_description": "N/A",
+		  "status": "BAD"
+		},
+		"7": {
+		  "include": "false",
+		  "status_description": "N/A",
+		  "status": "BAD"
+		},
+		"8": {
+		  "include": "false",
+		  "status_description": "N/A",
+		  "status": "BAD"
+		},
+		"9": {
+		  "include": "false",
+		  "status_description": "N/A",
+		  "status": "BAD"
+		},
+		"1": {
+		  "include": "false",
+		  "status_description": "N/A",
+		  "status": "BAD"
+		},
+		"2": {
+		  "include": "false",
+		  "status_description": "N/A",
+		  "status": "BAD"
+		}
+	  },
+	  "N'": {
+		"1": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"2": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"3": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"4": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"5": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"12": {
+		  "include": "false",
+		  "status_description": "OUT",
+		  "status": "BAD"
+		},
+		"11": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"10": {
+		  "include": "false",
+		  "status_description": "CSF",
+		  "status": "BAD"
+		},
+		"type": "SEEG",
+		"8": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"9": {
+		  "include": "false",
+		  "status_description": "CSF",
+		  "status": "BAD"
+		},
+		"6": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"7": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		}
+	  },
+	  "L'": {
+		"1": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"2": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"3": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"10": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"4": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"type": "SEEG",
+		"5": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"6": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"7": {
+		  "include": "false",
+		  "status_description": "VENTRICLE",
+		  "status": "BAD"
+		},
+		"11": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"14": {
+		  "include": "false",
+		  "status_description": "OUT",
+		  "status": "BAD"
+		},
+		"12": {
+		  "include": "true",
+		  "status_description": "N/A",
+		  "status": "GOOD"
+		},
+		"13": {
+		  "include": "false",
+		  "status_description": "OUT",
+		  "status": "BAD"
+		},
+		"8": {
+		  "include": "false",
+		  "status_description": "WM",
+		  "status": "BAD"
+		},
+		"9": {
+		  "include": "false",
+		  "status_description": "VENTRICLE",
+		  "status": "BAD"
+		}
+	  },
+	  "TP": {
+		"10": {
+		  "include": "false",
+		  "status_description": "NON-EEG",
+		  "status": "BAD"
+		},
+		"type": "SEEG"
+	  },
+	  "DC": {
+		"08": {
+		  "include": "false",
+		  "status_description": "NON-EEG",
+		  "status": "BAD"
+		},
+		"07": {
+		  "include": "false",
+		  "status_description": "NON-EEG",
+		  "status": "BAD"
+		},
+		"03": {
+		  "include": "false",
+		  "status_description": "NON-EEG",
+		  "status": "BAD"
+		},
+		"01": {
+		  "include": "false",
+		  "status_description": "NON-EEG",
+		  "status": "BAD"
+		},
+		"04": {
+		  "include": "false",
+		  "status_description": "NON-EEG",
+		  "status": "BAD"
+		},
+		"05": {
+		  "include": "false",
+		  "status_description": "NON-EEG",
+		  "status": "BAD"
+		},
+		"06": {
+		  "include": "false",
+		  "status_description": "NON-EEG",
+		  "status": "BAD"
+		},
+		"type": "MISC",
+		"02": {
+		  "include": "false",
+		  "status_description": "NON-EEG",
+		  "status": "BAD"
+		}
+	  }
+	}
+}
