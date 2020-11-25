@@ -1,5 +1,5 @@
 [FileInfo]
-File=c:\users\patrick\desktop\eztrack-testing-data\persyst\sourcedata\la02\la02_ictal_reduced-clip.dat
+File=la02_ictal_reduced-clip.dat
 FileType=Interleaved
 SamplingRate=1000
 HeaderLength=0
@@ -11,7 +11,7 @@ DataType=7
 FullName=X
 Sex=X
 Hand=
-BirthDate=X
+BirthDate=01/01/1970
 ID=X
 MedicalRecordN=
 TestDate=2015.01.30
