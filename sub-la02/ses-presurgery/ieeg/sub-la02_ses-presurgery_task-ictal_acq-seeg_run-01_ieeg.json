@@ -1,0 +1,18 @@
+{
+    "TaskName": "ictal",
+    "Manufacturer": "Persyst",
+    "PowerLineFrequency": 60,
+    "SamplingFrequency": 1000.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 11.088,
+    "RecordingType": "continuous",
+    "iEEGReference": "n/a",
+    "ECOGChannelCount": 0,
+    "SEEGChannelCount": 95,
+    "EEGChannelCount": 0,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 2,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 9,
+    "TriggerChannelCount": 0
+}
